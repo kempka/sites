@@ -1,0 +1,54 @@
+html {
+	height: 100%;
+}
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #cfcfcf;
+	height: 100%;
+	}
+div {
+	/*outline: 2px solid #FF00AE; /*малиновый*/
+}
+#fon {
+	width: 968px;
+	height: 100%;
+	margin: 0 auto auto auto;
+	text-align: center;
+	background-image: url(../images/fon.jpg);
+	/*outline: 2px solid #D0FF00; /*мурена*/
+}
+#logo {
+	/*outline: 2px solid #00FFA9; /*зелёный*/
+	height: 330px;
+	padding-top: 50px;
+}
+#jurgenkopf {
+	/*outline: 2px solid #FFDD00; /*золотой*/
+	padding-right: 40px;
+}
+#podch {
+	padding-top: 40px;
+	/*outline: 2px solid #B34EE9; /*фиолетовый*/
+}
+#zagind {
+    color: #111111;
+    font-family: trebuchet ms;
+    font-size: 80px;
+    padding-top: 20px;
+	margin: 0 auto;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 0px #91F1F0, 7px 7px 0px #707070;
+}
+#uzor1 {
+	padding-top: 40px;
+	/*outline: 2px solid #F98100; /*оранжевый*/
+}
+#vhod {
+	margin: 0 auto;
+	font-family: trebuchet ms;
+	font-size: 70px;
+}
+#uzor2 {
+	/*outline: 2px solid #460D00; /*коричневый*/
+}
